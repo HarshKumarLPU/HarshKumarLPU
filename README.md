@@ -38,13 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshKumarLPU&show_icons=true&theme=tokyonight&cache_seconds=1800&v=2" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshKumarLPU&layout=compact&theme=tokyonight&cache_seconds=1800&v=2" />
-</p>
----
 
 ## 💻 Tech Stack
 
