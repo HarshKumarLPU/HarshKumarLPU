@@ -1,7 +1,8 @@
-<h1 align="center">Hi there, I'm Harsh Kumar! 👋</h1>
+<h1 align="center">Hey 👋 I'm Harsh Kumar — Learning Full-Stack Web Development</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B93E&size=22&center=true&vCenter=true&width=600&lines=Developer+|+Problem+Solver+|+Web+Enthusiast;Coding+in+Java+|+Exploring+Web+Dev+%26+DSA;Sleep+Enthusiast+(10%2B+hrs%2Fday+%F0%9F%98%86)" />
+
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00F2FF&center=true&vCenter=true&width=900&lines=Learning+Full+Stack+Development;DSA+%7C+Web+Dev+%7C+Automation;Code+Sleep+Repeat+%F0%9F%98%B4%F0%9F%92%BB" />
 </p>
 
 ---
@@ -28,18 +29,12 @@
 ## 🚀 Featured Projects (Pinned)
 
 <p align="center">
-  <a href="https://github.com/HarshKumarLPU/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramarora00&repo=DSALeetVS&theme=tokyonight&cache_seconds=1800&v=1" />
+  <a href="https://github.com/HarshKumarLPU/Passwordless_authentication">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKumarLPU&repo=Passwordless_authentication&theme=tokyonight&cache_seconds=1800&v=1" />
   </a>
-  <a href="https://github.com/HarshKumarLPU/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramarora00&repo=finance-dashboard&theme=tokyonight&cache_seconds=1800&v=1" />
+  <a href="https://github.com/HarshKumarLPU/Intelligent-CPU-Scheduler-Simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKumarLPU&repo=Intelligent-CPU-Scheduler-Simulator&theme=tokyonight&cache_seconds=1800&v=1" />
   </a>
-  <a href="https://github.com/HarshKumarLPU/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramarora00&repo=collab-workspace&theme=tokyonight&cache_seconds=1800&v=1" />
-  </a>
-</p>
-
----
 
 ---
 
