@@ -30,10 +30,10 @@
 
 <p align="center">
   <a href="https://github.com/HarshKumarLPU/Passwordless_authentication">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKumarLPU&repo=Passwordless_authentication&theme=tokyonight&cache_seconds=1800&v=1" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKumarLPU&repo=Passwordless_authentication&theme=tokyonight&cache_seconds=1800&v=2" />
   </a>
   <a href="https://github.com/HarshKumarLPU/Intelligent-CPU-Scheduler-Simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKumarLPU&repo=Intelligent-CPU-Scheduler-Simulator&theme=tokyonight&cache_seconds=1800&v=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshKumarLPU&repo=Intelligent-CPU-Scheduler-Simulator&theme=tokyonight&cache_seconds=1800&v=2" />
   </a>
 
 ---
